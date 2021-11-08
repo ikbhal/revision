@@ -2,7 +2,7 @@
 </script>
 
 <main>
-i<h1>Revision</h1>
+<h1>Revision</h1>
 <p>Revise english, people talk, ui ux, coding, lang, framework, cooking</p>
 </main>
 
