@@ -18,7 +18,16 @@
     ---
     health 
         walking, gym, 
-        sports: running, 
+        sports: running, boxing
+    ---
+     Parenting
+     Spent some time with kids , manner, educate, finance, vales
+     Mother fathee
+    ---
+    Romantic life
+    Spent some time with wife listen gifts needs
+    ---
+    Social service
 </p>
 </main>
 
