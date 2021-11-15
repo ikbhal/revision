@@ -1,9 +1,18 @@
 <script>
+
 </script>
 
 <main>
 <h1>Revision</h1>
 <p>Revise english, people talk, ui ux, coding, lang, framework, cooking</p>
+
+<ul>
+    <li>Quran</li>
+    <li>Family time(parents, wife, kids)</li>
+    <li>Friends calling</li>
+    <li>Kotlin</li>
+</ul>
+<hr/>
 <p>
     If yoou read any thing, you will remember for some days(duration/period).
     After that you will forget.
