@@ -18,7 +18,15 @@
     ---
     health 
         walking, gym, 
-        sports: running, 
+        sports: running,
+        
+    ---
+    category have many task 
+    each task have frequency when to do it , 
+      when the task performed expected, actual date 
+    category priority, task priority, task instance priority
+    ---
+    plan tasks, flexibility, involve time urgency, importance, like, resource needed(money, computer, server)
 </p>
 </main>
 
