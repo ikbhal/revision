@@ -7,7 +7,14 @@
 <p>Revise english, people talk, ui ux, coding, lang, framework, cooking</p>
 
 <ul>
-    <li>Quran</li>
+    <li>
+    <h3>Quran</h3>
+    <p>minium time: once in a week</p>
+    <p>How do we know we have to remind , have to know its activity done date  , history</p>
+    <p>Have monthly target, yearly target, daily target</p>
+    <p>send mail reminders on goal not reach given duration</p>
+
+    </li>
     <li>Family time(parents, wife, kids)</li>
     <li>Friends calling</li>
     <li>Kotlin</li>
